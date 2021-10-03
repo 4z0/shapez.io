@@ -14,14 +14,13 @@ steamPage:
         Początkowo przekształcanie kształtów będzie proste, ale później będziesz również musiał je malować - wymaga to wydobywania i łączenia barwników!
 
         Kupienie gry w serwisie Steam przyznaje Ci dostęp do pełnej wersji, ale możesz również skorzystać z wersji demonstracyjnej na strone shapez.io i rozważyć zakup później!
-    what_others_say: What people say about shapez.io
-    nothernlion_comment: This game is great - I'm having a wonderful time playing,
-        and time has flown by.
-    notch_comment: Oh crap. I really should sleep, but I think I just figured out
-        how to make a computer in shapez.io
-    steam_review_comment: This game has stolen my life and I don't want it back.
-        Very chill factory game that won't let me stop making my lines more
-        efficient.
+    what_others_say: Co ludzie mówią o shapez.io
+    nothernlion_comment: Ta gra jest świetna - świetnie się bawię,
+         a czas minął bardzo szybko.
+    notch_comment: O kurcze. Naprawde powinienem iść spać, ale chyba właśnie odkryłem jak zbudować komputer w shapez.io
+    steam_review_comment: Ta gra skradła mi życie a ja nie chcę go z powrotem.
+        Bardzo fajna gra o budowaniu fabryki, która nie pozwoli mi przestać zwiększać
+        wydajności moich linii.
 global:
     loading: Ładowanie
     error: Wystąpił błąd
@@ -73,12 +72,12 @@ mainMenu:
     madeBy: Gra wykonana przez <author-link>
     subreddit: Reddit
     savegameUnnamed: Zapis bez nazwy
-    puzzleMode: Puzzle Mode
-    back: Back
-    puzzleDlcText: Do you enjoy compacting and optimizing factories? Get the Puzzle
-        DLC now on Steam for even more fun!
-    puzzleDlcWishlist: Wishlist now!
-    puzzleDlcViewNow: View Dlc
+    puzzleMode: Tryb łamigłówki
+    back: Wstecz
+    puzzleDlcText: Czy lubisz kompaktować i optymalizować fabryki? Pobierz
+        DLC Puzzle już teraz na Steam, aby uzyskać jeszcze więcej zabawy!  
+    puzzleDlcWishlist: Dodaj do listy życzeń!
+    puzzleDlcViewNow: Zobacz dodatek
 dialogs:
     buttons:
         ok: OK
@@ -92,9 +91,9 @@ dialogs:
         viewUpdate: Zobacz aktualizację
         showUpgrades: Pokaż ulepszenia
         showKeybindings: Pokaż Klawiszologię
-        retry: Retry
-        continue: Continue
-        playOffline: Play Offline
+        retry: Spróbuj ponownie
+        continue: Kontynuuj
+        playOffline: Graj Offline
     importSavegameError:
         title: Błąd importowania
         text: "Nie udało się zaimportować twojego zapisu gry:"
